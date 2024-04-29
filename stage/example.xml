@@ -92,6 +92,7 @@
         <param name="Максимальна длина ремешка" unit="">20 см</param>
         <param name="Минимальная длина ремешка" unit="">11 см</param>
         <param name="Amazfit" unit="">Apple Watch 38 mm|Apple Watch 40 mm|Apple Watch 41 mm</param>
+       </offer>
     
     </offers>
   </shop>
