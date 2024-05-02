@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2024-05-02 13:32">
+  <shop>
+    <name>ТЕХНОБАЗА</name>
+    <company>ТЕХНОБАЗА</company>
+    <url>https://techno-baza.com.ua/</url>
+    <currencies>
+      <currency id="USD" rate="CB"/>
+      <currency id="UAH" rate="1"/>
+      <currency id="BYN" rate="CB"/>
+      <currency id="KZT" rate="CB"/>
+      <currency id="EUR" rate="CB"/>
+      <currency id="RON" rate="CB"/>
+    </currencies>
+    <categories>
+      <category id="120483687" parentId="101064370">Сварочное оборудование ЛучПрофи</category>
+      <category id="121346919" parentId="101064370">Сварочное оборудование NOWA</category>
+      <category id="120691376" parentId="101064370">Сварочное оборудование Кентавр</category>
+      <category id="120691375" parentId="101064370">Сварочное оборудование Vitals</category>
+      <category id="121116391" parentId="101064370">Сварочное оборудование Sirius</category>
+      <category id="120483678" parentId="101064370">Сварочное оборудование Shyuan</category>
+      <category id="120483660" parentId="101064370">Сварочное оборудование Redbo</category>
+      <category id="120483656" parentId="101064370">Сварочное оборудование Edon</category>
+      <category id="126275376" parentId="120774712">Газонокосилки</category>
+      <category id="126217027" parentId="101064374">Зарядные устройства Edon</category>
+      <category id="126180256" parentId="120774667">Граверы Nowa</category>
+      <category id="126175864" parentId="120774665">Гайковерты Vitals</category>
+      <category id="124803907" parentId="101064371">Сварочные электроды</category>
+      <category id="121710794" parentId="120774712">Бензопилы</category>
+      <category id="121710522" parentId="121507515">Бензопилы</category>
+      <category id="121508490" parentId="120774711">Аппараты высокого давления</category>
+      <category id="121507677" parentId="120774665">Воздуходувки</category>
+      <category id="121507664" parentId="120774711">Газонокосилки</category>
+      <category id="121507515" parentId="101064373">Садовая техника NOWA</category>
+      <category id="121507501" parentId="120774712">Триммеры</category>
+      <category id="121348237" parentId="120691376">Сварочные инверторы Кентавр</category>
+      <category id="121330587" parentId="120691375">Аргонодуговая сварка</category>
+      <category id="121017363" parentId="101064374">Электрогенераторы Enersol</category>
+      <category id="120934338" parentId="101064374">Электрогенераторы Greenmax</category>
+      <category id="120934337" parentId="101064374">Электрогенераторы Vito</category>
+      <category id="120934331" parentId="101064374">Электрогенераторы Warrior</category>
+      <category id="120934327" parentId="101064374">Электрогенераторы Forza</category>
+      <category id="120934312" parentId="101064374">Электрогенераторы Lutian</category>
+      <category id="120774857" parentId="120774667">Строительные фены</category>
+      <category id="120774855" parentId="120774667">Болгарки</category>
+      <category id="120774790" parentId="120774667">Лобзики</category>
+      <category id="120774765" parentId="120774667">Шуруповерты</category>
+      <category id="120774762" parentId="120774712">Электрические пилы</category>
+      <category id="120774746" parentId="120774711">Строительные пылесосы / Аксессуары к пылесосам</category>
+      <category id="120774711" parentId="101064373">Садовая техника Vitals</category>
+      <category id="120774706" parentId="120774665">Болгарки</category>
+      <category id="120774697" parentId="120774665">Перфораторы</category>
+      <category id="120774695" parentId="120774665">Паяльники для пластиковых труб</category>
+      <category id="120774689" parentId="120774665">Шлифмашины</category>
+      <category id="120774688" parentId="120774665">Лобзики</category>
+      <category id="120774671" parentId="120774665">Дрели</category>
+      <category id="120691427" parentId="101064374">Зарядные устройства Кентавр</category>
+      <category id="120691414" parentId="120691376">Сварочные полуавтоматы</category>
+      <category id="120691413" parentId="120691375">Сварочные полуавтоматы</category>
+      <category id="120691388" parentId="120691375">Сварочные инвертора</category>
+      <category id="120662184" parentId="101064374">Электрогенераторы Кентавр</category>
+      <category id="126266724" parentId="101064374">Электрогенераторы NOWA</category>
+      <category id="123003817" parentId="120483899">Перфораторы</category>
+      <category id="121697240" parentId="120483899">Паяльники для пластиковых труб</category>
+      <category id="120497367" parentId="120483931">Газовые кемпинги</category>
+      <category id="120497232" parentId="120483931">Воздуходувки/Пылесосы</category>
+      <category id="120497125" parentId="120483899">Миксеры</category>
+      <category id="120497122" parentId="120483899">Гайковерты</category>
+      <category id="120497044" parentId="120483899">Болгарки</category>
+      <category id="120497040" parentId="120483899">Шуруповерты</category>
+      <category id="120495277" parentId="120483656">Сварочные инверторы</category>
+      <category id="120483971" parentId="101064375">Компрессора Edon</category>
+      <category id="124283474" parentId="120483897">Перфораторы</category>
+      <category id="123806566" parentId="120483897">Шуруповерты</category>
+      <category id="123009021" parentId="120483660">Сварочные инверторы</category>
+      <category id="120511728" parentId="120483897">Болгарки</category>
+      <category id="120495459" parentId="120483660">Плазменные резаки</category>
+      <category id="120489072" parentId="101064374">Портативные зарядные станции Redbo</category>
+      <category id="120485316" parentId="101064373">Садовая техника Redbo</category>
+      <category id="124364343" parentId="124311300">Гайковерты</category>
+      <category id="124359126" parentId="124311300">Электрические пилы</category>
+      <category id="124322589" parentId="124311300">Лобзики</category>
+      <category id="124311371" parentId="124311300">Полировальные машины</category>
+      <category id="124311338" parentId="124311300">Болгарки</category>
+      <category id="124311337" parentId="124311300">Дрели</category>
+      <category id="124311300" parentId="101064372">Электроинструмент DCA</category>
+      <category id="124812688" parentId="101064374">Масло для генераторов</category>
+      <category id="124803900" parentId="101064394">Проволока</category>
+      <category id="124771072" parentId="101064374">Электрогенераторы JAC</category>
+      <category id="124697434" parentId="101064374">Портативные зарядные станции KMA</category>
+      <category id="124697344" parentId="101064373">Электрообогреватели KMA</category>
+      <category id="124617728" parentId="101064374">Электрогенераторы KMA</category>
+      <category id="124591108" parentId="124591104">Электрообогреватели</category>
+      <category id="124591104">Обогреватели и автотовары</category>
+      <category id="124367400" parentId="124311300">Лазерные уровни</category>
+      <category id="124311457" parentId="124311451">Воздуходувки</category>
+      <category id="124311451" parentId="101064373">Садовая техника DCA</category>
+      <category id="124311368" parentId="124311300">Шуруповерты</category>
+      <category id="124311335" parentId="124311300">Рубанки</category>
+      <category id="124311334" parentId="124311300">Шлифовальные машины</category>
+      <category id="124311333" parentId="124311300">Фрезерные машины</category>
+      <category id="124311305" parentId="124311300">Строительные фены</category>
+      <category id="123015470" parentId="120483897">Дисковые пилы</category>
+      <category id="123015574" parentId="120483897">Гайковерты</category>
+      <category id="122240805" parentId="101064374">Генераторы Genergy</category>
+      <category id="122239882" parentId="101064374">Генераторы Tarlan</category>
+      <category id="121771923" parentId="120774711">Обогреватели</category>
+      <category id="121771911" parentId="121507515">Обогреватели</category>
+      <category id="121744234" parentId="120774711">Мотоопрыскиватели</category>
+      <category id="121714230" parentId="120774711">Бензопилы</category>
+      <category id="121697666" parentId="120483899">Электролобзики</category>
+      <category id="121668001" parentId="120483899">Фены строительные</category>
+      <category id="121508656" parentId="121508652">Двигатели Кентавр</category>
+      <category id="121508654" parentId="121508652">Двигатели Vitals</category>
+      <category id="121508652" parentId="101064374">Двигатели</category>
+      <category id="121508516" parentId="120774665">Мультитулы</category>
+      <category id="121508515" parentId="120774665">Фрезера</category>
+      <category id="121508479" parentId="121508471">Станки</category>
+      <category id="121508477" parentId="120774667">Станки</category>
+      <category id="121508292" parentId="101064375">Компрессора NOWA</category>
+      <category id="121508288" parentId="101064375">Компрессора Vitals</category>
+      <category id="121508276" parentId="120774712">Мотопомпы</category>
+      <category id="121508268" parentId="120774711">Мотопомпы</category>
+      <category id="121507679" parentId="120774711">Высоторезы</category>
+      <category id="121507538" parentId="121506291">Веткоизмельчители</category>
+      <category id="121507535" parentId="121507515">Опрыскиватели</category>
+      <category id="121507532" parentId="121507515">Триммеры</category>
+      <category id="121507169" parentId="120774711">Триммеры</category>
+      <category id="121506536" parentId="121506518">Швонарезчики</category>
+      <category id="121506531" parentId="121506510">Мотобуры</category>
+      <category id="121506524" parentId="121506518">Виброплиты</category>
+      <category id="121506523" parentId="121506510">Виброплиты</category>
+      <category id="121506518" parentId="121506488">Строительная техника Кентавр</category>
+      <category id="121506510" parentId="121506488">Строительная техника Vitals</category>
+      <category id="121506488">Строительная техника, оборудование</category>
+      <category id="121506475" parentId="121506302">Мотокультиваторы</category>
+      <category id="121506328" parentId="121506302">Мотоблоки</category>
+      <category id="121506302" parentId="121506199">Сельскохозяйственная техника Кентавр</category>
+      <category id="121506291" parentId="121506199">Сельскохозяйственная техника Vitals</category>
+      <category id="121506199">Сельскохозяйственная техника</category>
+      <category id="121346927" parentId="121346919">Сварочные инверторы NOWA</category>
+      <category id="120934306" parentId="101064374">Электрогенераторы Invo</category>
+      <category id="120774759" parentId="120774711">Электрические пилы</category>
+      <category id="120483899" parentId="101064372">Электроинструмент Edon</category>
+      <category id="101064384" parentId="101064372">Шуруповерты</category>
+      <category id="120483915" parentId="101064372">Электроинструмент Narva</category>
+      <category id="101064386" parentId="101064372">Дрели</category>
+      <category id="101064385" parentId="101064372">Болгарки(УШМ)</category>
+      <category id="101064383" parentId="101064372">Перфораторы</category>
+      <category id="120774667" parentId="101064372">Электроинструмент Nowa</category>
+      <category id="120774665" parentId="101064372">Электроинструмент Vitals</category>
+      <category id="121508471" parentId="101064372">Электроинструмент Кентавр</category>
+      <category id="101064381" parentId="101064371">Рукава(Горелки)</category>
+      <category id="101064394" parentId="101064371">Расходники на Полуавтомат</category>
+      <category id="101064393" parentId="101064371">Расходники на Плазморез</category>
+      <category id="101064382" parentId="101064371">Сварочные маски</category>
+      <category id="125774983" parentId="101064371">Расходники на аргонодуговые аппараты</category>
+      <category id="121116489" parentId="121116391">Аргонодуговая сварка</category>
+      <category id="121116488" parentId="121116391">Сварочные полуавтоматы</category>
+      <category id="121116395" parentId="121116391">Сварочные инверторы</category>
+      <category id="120662201" parentId="101064374">Электрогенераторы Vitals</category>
+      <category id="120483932" parentId="101064373">Садовая техника Narva</category>
+      <category id="120483929" parentId="101064372">Электроинструмент ЛучПрофи</category>
+      <category id="120498044" parentId="120483929">Дисковые пилы</category>
+      <category id="120497689" parentId="120483915">Прямые шлифмашины</category>
+      <category id="120497594" parentId="120483915">Дисковые пилы</category>
+      <category id="120497587" parentId="120483915">Болгарки</category>
+      <category id="120483897" parentId="101064372">Электроинструмент Redbo</category>
+      <category id="120495312" parentId="120483660">Сварочные полуавтоматы</category>
+      <category id="101064390" parentId="101064373">Электрические пилы</category>
+      <category id="120774854" parentId="120774667">Дисковые пилы</category>
+      <category id="120774847" parentId="120774667">Перфораторы</category>
+      <category id="120774796" parentId="120774667">Паяльники для пластиковых труб</category>
+      <category id="120774792" parentId="120774667">Миксеры</category>
+      <category id="120774764" parentId="120774667">Дрели</category>
+      <category id="120774712" parentId="101064373">Садовая техника Кентавр</category>
+      <category id="120774709" parentId="120774665">Штроборезы</category>
+      <category id="120774708" parentId="120774665">Строительные фены</category>
+      <category id="120774704" parentId="120774665">Станки</category>
+      <category id="120774703" parentId="120774665">Рубанки</category>
+      <category id="120774700" parentId="120774665">Полировальные машины</category>
+      <category id="120774698" parentId="120774665">Дисковые пилы</category>
+      <category id="120774692" parentId="120774665">Отбойные молотки</category>
+      <category id="120774690" parentId="120774665">Миксеры</category>
+      <category id="120774687" parentId="120774665">Лазерные уровни / Дальномеры</category>
+      <category id="120774685" parentId="120774665">Краскопульты</category>
+      <category id="120774683" parentId="120774665">Шуруповерты</category>
+      <category id="120691422" parentId="101064374">Зарядные устройства Vitals</category>
+      <category id="120497718" parentId="120483932">Бензопилы</category>
+      <category id="120497715" parentId="120483932">Триммеры</category>
+      <category id="120497584" parentId="120483915">Шуруповерты</category>
+      <category id="119112829" parentId="101064373">Культиваторы</category>
+      <category id="118993889" parentId="101064373">Бензопилы</category>
+      <category id="118971341" parentId="101064372">Шлифмашины</category>
+      <category id="120497365" parentId="120483931">Триммеры</category>
+      <category id="120497359" parentId="120483931">Бензопилы</category>
+      <category id="120497353" parentId="120483931">Аппараты высокого давления</category>
+      <category id="120497227" parentId="120483931">Электропилы</category>
+      <category id="120497579" parentId="120483897">Дрели</category>
+      <category id="120497136" parentId="120483899">Отбойные молотки</category>
+      <category id="120497124" parentId="120483899">Станки</category>
+      <category id="120497047" parentId="120483899">Дисковые пилы</category>
+      <category id="120496110" parentId="120483687">Сварочные инверторы</category>
+      <category id="120495600" parentId="120483678">Сварочные полуавтоматы</category>
+      <category id="120495596" parentId="120483678">Сварочные инверторы</category>
+      <category id="120495291" parentId="120483656">Аргонодуговая сварка</category>
+      <category id="120495284" parentId="120483656">Плазменные резаки</category>
+      <category id="120495283" parentId="120483656">Сварочные полуавтоматы</category>
+      <category id="120483966" parentId="101064374">Электрогенераторы Okayama</category>
+      <category id="120483953" parentId="101064374">Электрогенераторы Narva</category>
+      <category id="120483950" parentId="101064374">Электрогенераторы Edon</category>
+      <category id="120483931" parentId="101064373">Садовая техника Edon</category>
+      <category id="120498007" parentId="120483929">Плоскошлифовальные машины</category>
+      <category id="120498000" parentId="120483929">Гравировальные машины</category>
+      <category id="120497967" parentId="120483929">Строительные фены</category>
+      <category id="120497963" parentId="120483929">Перфораторы</category>
+      <category id="120497958" parentId="120483929">Болгарки</category>
+      <category id="120497953" parentId="120483929">Дрели</category>
+      <category id="120497951" parentId="120483929">Шуруповерты</category>
+      <category id="120497711" parentId="120483915">Перфораторы</category>
+      <category id="120497692" parentId="120483915">Строительные фены</category>
+      <category id="120497682" parentId="120483915">Рубанки</category>
+      <category id="120497599" parentId="120483915">Лобзики</category>
+      <category id="120497591" parentId="120483915">Полировальные машины</category>
+      <category id="120496120" parentId="120483687">Плазменные резаки</category>
+      <category id="120496116" parentId="120483687">Аргонодуговая сварка</category>
+      <category id="120496114" parentId="120483687">Сварочные полуавтоматы</category>
+      <category id="120495331" parentId="120483660">Аргонодуговая сварка</category>
+      <category id="119005220" parentId="101064373">Газонокосилки</category>
+      <category id="118783254" parentId="101064373">Мотокосы и триммеры</category>
+      <category id="101064370">Сварочное оборудование</category>
+      <category id="101064371">Сварочные аксессуары</category>
+      <category id="101064372">Электроинструмент</category>
+      <category id="101064373">Садовая техника</category>
+      <category id="101064374">Электрогенераторы</category>
+      <category id="101064375">Компрессора и комплектующие</category>
+      <category id="101064395" parentId="101064374">Генераторы</category>
+    </categories>
+  <offers>
+
+
+  </offers>
+</shop>
+</yml_catalog>
